@@ -1,1 +1,1 @@
-# terraform_dynamic_blocks_vpc
+# terraform_dynamic_aws_blocks_vpc
